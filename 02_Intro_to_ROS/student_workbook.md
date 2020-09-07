@@ -1,5 +1,5 @@
-- Name:  *write your full name*
-- Date:  *write the date of submission*
+- Name:  Brandon Francisco
+- Date:  09/07/2020
 
 
 # Introduction to ROS -- Self Study
